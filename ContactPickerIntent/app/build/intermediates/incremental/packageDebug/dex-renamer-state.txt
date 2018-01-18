@@ -1,0 +1,7 @@
+#Fri Oct 27 09:08:52 PDT 2017
+base.0=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_340a99aeb999cc1b8046d1eb92edb8397a45e099
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a30d8721437a0ec0458d0fb81313ebdea69d14f/classes.dex
+base.1=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a30d8721437a0ec0458d0fb81313ebdea69d14f
+file.0=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_340a99aeb999cc1b8046d1eb92edb8397a45e099/classes.dex

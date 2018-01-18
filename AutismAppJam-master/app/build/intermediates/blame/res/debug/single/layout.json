@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/question_screen.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/question_screen.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/activity_write_test.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/activity_write_test.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/readtest.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/readtest.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/activity_word_sentence_mode.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/activity_word_sentence_mode.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/activity_add_mode.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/activity_add_mode.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/layout/answer_screen.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/layout/answer_screen.xml"
+    }
+]

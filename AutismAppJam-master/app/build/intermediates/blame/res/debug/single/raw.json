@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/raw/right.wav",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/raw/right.wav"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/raw/wrong.wav",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/raw/wrong.wav"
+    }
+]

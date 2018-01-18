@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/anim/in_from_left.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/anim/out_to_right.xml",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/anim/out_to_right.xml"
+    }
+]

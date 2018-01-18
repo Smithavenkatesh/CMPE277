@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/chalkboard.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/chalkboard.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/recordbutton.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/recordbutton.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/bg2normal.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/bg2normal.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/bg2mbad.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/bg2mbad.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/bg.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/bg.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/anteater1.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/anteater1.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/button.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/button.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/bgback.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/bgback.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/bg2good.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/bg2good.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/recordbuttonon.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/recordbuttonon.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/buttonpressed.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/buttonpressed.png"
+    },
+    {
+        "merged": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/build/intermediates/res/merged/debug/drawable-ldpi/bg2.png",
+        "source": "/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/AutismAppJam-master/app/src/main/res/drawable-ldpi/bg2.png"
+    }
+]

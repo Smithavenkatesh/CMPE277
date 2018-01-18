@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Requester</string>
+    <string name="currency_prompt">Choose which currency to convert</string>
+
+    <string-array name="currency_to_convert_array">
+        <item>Euro</item>
+        <item>Indian Rupee</item>
+        <item>British Pound</item>
+    </string-array>
+</resources>

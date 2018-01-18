@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="vertical"
+    android:padding="8dip">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="16dip"
+        android:text="@string/activity_b_label"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="@android:dimen/app_icon_size" />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@android:color/background_dark"
+        android:orientation="vertical">
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/status_view_all_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_light"
+        android:padding="4dip"
+        android:text="@string/status_view_all_b"
+        android:textColor="@android:color/black"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btn_finish_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark"
+        android:onClick="finishActivityB"
+        android:text="Finish B"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/background_light" />
+</LinearLayout>
+
+

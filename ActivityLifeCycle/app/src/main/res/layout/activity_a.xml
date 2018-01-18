@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="vertical"
+    android:padding="8dip"
+    android:weightSum="1">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@android:color/background_dark"
+        android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="16dip"
+        android:text="@string/activity_a"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="@android:dimen/app_icon_size"
+        />
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@android:color/background_dark"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_start_b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="startActivityB"
+            android:text="Activity B" />
+
+        <Button
+            android:id="@+id/btn_start_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_toRightOf="@id/btn_start_b"
+            android:onClick="startDialog"
+            android:text="Dialog" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/threadCounter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thread Counter: 0000"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/btn_finish_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark"
+        android:onClick="finishActivityA"
+        android:text="Close App"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/background_light" />
+
+
+
+</LinearLayout>
+

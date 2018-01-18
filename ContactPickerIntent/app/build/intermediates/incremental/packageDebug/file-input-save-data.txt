@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Oct 27 09:08:52 PDT 2017
+2.base=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a30d8721437a0ec0458d0fb81313ebdea69d14f/classes.dex
+5.set=DEX
+3.base=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_340a99aeb999cc1b8046d1eb92edb8397a45e099
+2.set=ANDROID_RESOURCE
+4.base=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a30d8721437a0ec0458d0fb81313ebdea69d14f
+4.set=ANDROID_RESOURCE
+1.file=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.base=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_340a99aeb999cc1b8046d1eb92edb8397a45e099/classes.dex
+3.set=DEX
+1.base=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/smithavenkatesh/Software/AndroidStudioProjects/CMPE277/ContactPickerIntent/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+0.set=ANDROID_RESOURCE
